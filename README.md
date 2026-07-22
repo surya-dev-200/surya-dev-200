@@ -1,11 +1,142 @@
-<h1 align="center">Hi 👋, I'm Surya S</h1>
-<h3 align="center">A passionate AI/ML Developer</h3>
+<div align="center">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=surya-dev-200&label=Profile%20views&color=0e75b6&style=flat" alt="surya-dev-200" /> </p>
+# 👋 Hi, I'm Surya
 
-<h3 align="left">Connect with me:</h3>
+### 🚀 AI Engineer in Progress | Python Developer | Full Stack Developer
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=28&duration=3500&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Artificial+Intelligence;Python+Developer;Machine+Learning;Deep+Learning;Future+AI+Researcher;Building+Voice+AI" />
+
+<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile+Views&color=0e75b6&style=for-the-badge"/>
+
+</div>
+
+---
+
+## 💫 About Me
+
+- 🤖 Passionate about Artificial Intelligence & Software Development
+- 🌱 Currently learning **Python, Machine Learning, Deep Learning & LLMs**
+- 🚀 Building **AI Projects, Voice AI & Full Stack Applications**
+- 🎯 Goal: **Build my own AI Model from Scratch**
+- 💡 Always learning something new every day
+
+---
+
+## 🌐 Connect With Me
+
 <p align="left">
+<a href="https://github.com/YOUR_USERNAME">
+<img src="https://skillicons.dev/icons?i=github" />
+</a>
+<a href="https://linkedin.com/in/YOUR_LINKEDIN">
+<img src="https://skillicons.dev/icons?i=linkedin" />
+</a>
+<a href="mailto:YOUR_EMAIL">
+<img src="https://skillicons.dev/icons?i=gmail" />
+</a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> </p>
+---
+
+## 💻 Languages & Tools
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=python,java,javascript,react,nodejs,express,mongodb,mysql,git,github,vscode,linux,html,css,tailwind,numpy,pytorch,tensorflow" />
+
+</p>
+
+---
+
+## 📊 GitHub Statistics
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+## 🔥 GitHub Streak
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=algolia&row=2&column=4&margin-w=15&margin-h=15"/>
+
+</p>
+
+---
+
+## 📈 Contribution Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&hide_border=true"/>
+
+</p>
+
+---
+
+## 🚀 Featured Projects
+
+| Project | Description |
+|---------|-------------|
+| 🎤 Voice AI | AI-powered Voice Assistant |
+| 🤖 AI Learning | Machine Learning & Deep Learning Projects |
+| 🎓 Student Management System | MERN Stack Application |
+| 🌐 Portfolio Website | Personal Portfolio |
+
+---
+
+## 📚 Currently Learning
+
+```text
+🐍 Python            ██████████████ 100%
+📊 NumPy             ████████████░ 85%
+🐼 Pandas            ██████████░░░ 75%
+📈 Statistics        ███████░░░░░░ 60%
+🤖 Machine Learning  ██████░░░░░░░ 50%
+🧠 Deep Learning     ████░░░░░░░░░ 35%
+🎤 Voice AI          ███░░░░░░░░░░ 25%
+```
+
+---
+
+## 🎯 2026 Goals
+
+- ✅ Master Python
+- ✅ Master Data Structures & Algorithms
+- 🔄 Learn Machine Learning
+- 🔄 Learn Deep Learning
+- 🔄 Build AI Applications
+- 🔄 Build Enterprise Voice AI
+- 🔄 Create My Own AI Architecture
+
+---
+
+## 💭 Quote
+
+> **"Success is built one commit at a time."**
+
+---
+
+<div align="center">
+
+### ⭐ Thanks for visiting my profile!
+
+**Keep Learning • Keep Building • Keep Growing 🚀**
+
+</div>
