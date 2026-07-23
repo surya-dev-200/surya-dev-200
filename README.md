@@ -30,10 +30,12 @@
 <a href="https://github.com/surya-dev-200">
 <img src="https://skillicons.dev/icons?i=github"/>
 </a>
+  &nbsp;&nbsp;&nbsp;
 
 <a href="https://www.linkedin.com/in/surya-s-47a851375?utm_source=share_via&utm_content=profile&utm_medium=member_android">
 <img src="https://skillicons.dev/icons?i=linkedin"/>
 </a>
+  &nbsp;&nbsp;&nbsp;
 
 <a href="mailto:suryadino9345@gmail.com">
 <img src="https://skillicons.dev/icons?i=gmail"/>
