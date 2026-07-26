@@ -80,7 +80,7 @@ Currently learning, building, and improving one project at a time.
 
 # 📊 GitHub Stats
 
-<p align="center"> <a href="https://leetcode.com/u/YOUR_LEETCODE_USERNAME/"> <img src="https://leetcard.jacoblin.cool/YOUR_LEETCODE_USERNAME?theme=dark&font=Poppins&ext=contest" /> </a> </p>
+<p align="center"> <a href="https://leetcode.com/u/Surya-mad20/"> <img src="https://leetcard.jacoblin.cool/YOUR_LEETCODE_USERNAME?theme=dark&font=Poppins&ext=contest" /> </a> </p>
 
 ---
 
