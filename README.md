@@ -11,8 +11,7 @@
 
 🚀 Explore my projects, skills, and journey in one place.
 
-### 🔗 **https://your-portfolio.com](https://portfolio-henna-delta-u8gc3fa8dg.vercel.app/**
-
+### 🔗 **https://portfolio-henna-delta-u8gc3fa8dg.vercel.app/**
 </p>
 ```
 
