@@ -5,6 +5,18 @@
 
 ### Aspiring AI Engineer • Python Developer • Full Stack Developer
 
+# 🌐 Portfolio
+
+<p align="center">
+
+🚀 Explore my projects, skills, and journey in one place.
+
+### 🔗 **https://your-portfolio.com](https://portfolio-henna-delta-u8gc3fa8dg.vercel.app/**
+
+</p>
+```
+
+
 I'm passionate about Artificial Intelligence, Machine Learning, and building software that solves real-world problems.
 
 Currently learning, building, and improving one project at a time.
@@ -80,7 +92,7 @@ Currently learning, building, and improving one project at a time.
 
 # 📊 GitHub Stats
 
-<p align="center"> <a href="https://leetcode.com/u/Surya-mad20/"> <img src="https://leetcard.jacoblin.cool/YOUR_LEETCODE_USERNAME?theme=dark&font=Poppins&ext=contest" /> </a> </p>
+<p align="center"> <a href="https://leetcode.com/u/Surya-mad20/"> <img src="https://leetcard.jacoblin.cool/Surya-mad20?theme=dark&font=Poppins&ext=contest" /> </a> </p>
 
 ---
 
@@ -88,19 +100,19 @@ Currently learning, building, and improving one project at a time.
 
 <p>
 
-<a href="https://github.com/YOUR_USERNAME">
+<a href="https://github.com/surya-dev-200">
 <img src="https://skillicons.dev/icons?i=github" />
 </a>
 
 &nbsp;&nbsp;
 
-<a href="https://linkedin.com/in/YOUR_LINKEDIN">
+<a href="https://www.linkedin.com/in/surya-s-47a851375?utm_source=share_via&utm_content=profile&utm_medium=member_android">
 <img src="https://skillicons.dev/icons?i=linkedin" />
 </a>
 
 &nbsp;&nbsp;
 
-<a href="mailto:YOUR_EMAIL">
+<a href="mailto:suryadino9345@gmail.com">
 <img src="https://skillicons.dev/icons?i=gmail" />
 </a>
 
