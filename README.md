@@ -89,7 +89,7 @@ Currently learning, building, and improving one project at a time.
 
 ---
 
-# 📊 GitHub Stats
+# 📊 Leetcode Stats
 
 <p align="center"> <a href="https://leetcode.com/u/Surya-mad20/"> <img src="https://leetcard.jacoblin.cool/Surya-mad20?theme=dark&font=Poppins&ext=contest" /> </a> </p>
 
